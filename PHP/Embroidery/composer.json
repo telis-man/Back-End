@@ -1,0 +1,13 @@
+{
+    "name": "codeacademy/cv",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Modules\\": "src/Modules/"
+        },
+        "files": ["src/functions.php"]
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}

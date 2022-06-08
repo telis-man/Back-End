@@ -1,0 +1,1 @@
+docker run -d -t --name php-test-container -v C:\Users\User\Desktop\Kursai\PHP:/home/code-academy/PHP -w /home/code-academy/PHP php:7.4.26-alpine3.14

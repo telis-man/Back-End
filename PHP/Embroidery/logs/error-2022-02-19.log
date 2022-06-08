@@ -1,0 +1,8 @@
+[19-Feb-2022 15:43:28 UTC] PHP Warning:  require_once(/home/code-academy/PHP/Embroidery/vendor/autoload.php): failed to open stream: No such file or directory in /home/code-academy/PHP/Embroidery/public/index.php on line 12
+[19-Feb-2022 15:43:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/code-academy/PHP/Embroidery/vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /home/code-academy/PHP/Embroidery/public/index.php on line 12
+[19-Feb-2022 15:44:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Dotenv\Dotenv' not found in /home/code-academy/PHP/Embroidery/public/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/code-academy/PHP/Embroidery/public/index.php on line 17
+[19-Feb-2022 15:44:51 UTC] PHP Warning:  require_once(/home/code-academy/PHP/Embroidery/vendor/autoload.php): failed to open stream: No such file or directory in /home/code-academy/PHP/Embroidery/public/index.php on line 12
+[19-Feb-2022 15:44:51 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/code-academy/PHP/Embroidery/vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /home/code-academy/PHP/Embroidery/public/index.php on line 12
